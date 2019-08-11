@@ -1,6 +1,9 @@
 # scrapy_douban
- A project to scrapy all posts of  Shenzhen Rent Group  in Douban
-
+ A project to scrapy all posts of  Shenzhen Rent Group（深圳租房团）  in Douban
+sz_rent_group_analysis.ipynb  数据清洗
+sz_rent_group_analysis_v2.ipynb 数据分析
+Notice: .ipynb run in jupyter notebook
+sz_rent_group_analysis_v2.html 分析图表展示
 
 ## Notice:
 1. your python environment needs mongodb support, or you can customized your own db support like MySQL or csv writer as well.
